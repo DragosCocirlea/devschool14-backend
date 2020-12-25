@@ -1,0 +1,47 @@
+{
+  "firstName": "Ionutz",
+  "lastName": "Aldea",
+  "email": "ionutzz.aldea@gmail.com",
+  "phoneNumber": "+40743330330,",
+  "gitRepo": "https://github.com/IonutAldea",
+  "linkedIn": "https://www.linkedin.com/in/ionut-aldea/",
+  "education": [
+    {
+      "studyProgram": "Calculatoare si Tehnologia Informatiei",
+      "institution": "Universitatea Politehnica din Bucuresti",
+      "startDate": "2015-10-03",
+      "endDate":  "2029-06-15"
+    }
+  ],
+  "workExperience": [
+    {
+      "position": "Testing Intern",
+      "workplace": "Vodafone Shared Services Romania",
+      "achievements": [
+        "Thought, solitude and a new body of satori.",
+        "When grilling whole strudels, be sure they are room temperature."
+      ],
+      "startDate": "2018-06-18",
+      "endDate":  "2018-09-15"
+    }
+  ],
+  "personalProjects": [
+    {
+      "name": "Thermodynamics",
+      "about": [
+        "Thought, solitude and a new body of satori.",
+        "When grilling whole strudels, be sure they are room temperature."
+      ],
+      "startDate": "2018-10-01"
+    }, {
+      "name": "DNS Client",
+      "about": [
+        "Moons are the ships of the most unusual resistance.",
+        "Why does the dubloon die?"
+      ],
+      "startDate": "2017-05-01"
+    }
+  ],
+  "skills": ["C", "Java", "Python"],
+  "hobbies": ["Reading", "Surfing", "Football"]
+}

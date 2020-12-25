@@ -1,0 +1,63 @@
+[
+  {
+    "firstName": "Dragos",
+    "lastName": "Cocirlea",
+    "email": "dragos.cocirlea@gmail.com",
+    "phoneNumber": "+40743220220,",
+    "gitRepo": "https://github.com/DragosCocirlea",
+    "linkedIn": "https://www.linkedin.com/in/dragos-cocirlea/",
+    "education": [
+      {
+        "studyProgram": "Calculatoare si Tehnologia Informatiei",
+        "institution": "Universitatea Politehnica din Bucuresti",
+        "startDate": "2016-10-03",
+        "endDate":  "2020-06-15"
+      }, {
+        "studyProgram": "Sisteme de Calcul Paralele si Distribuite",
+        "institution": "Universitatea Politehnica din Bucuresti",
+        "startDate": "2020-10-03",
+        "endDate":  "2022-06-15"
+      }
+    ],
+    "workExperience": [
+      {
+        "position": "DevOps Intern",
+        "workplace": "Vodafone Shared Services Romania",
+        "achievements": [
+          "Thought, solitude and a new body of satori.",
+          "When grilling whole strudels, be sure they are room temperature."
+        ],
+        "startDate": "2018-06-18",
+        "endDate":  "2018-09-15"
+      }, {
+        "position": "Software Developer Intern",
+        "workplace": "Finastra",
+        "achievements": [
+          "Moons are the ships of the most unusual resistance.",
+          "Why does the dubloon die?"
+        ],
+        "startDate": "2019-07-01",
+        "endDate":  "2020-01-07"
+      }
+    ],
+    "personalProjects": [
+      {
+        "name": "C-Magine",
+        "about": [
+          "Thought, solitude and a new body of satori.",
+          "When grilling whole strudels, be sure they are room temperature."
+        ],
+        "startDate": "2018-10-01"
+      }, {
+        "name": "CaptionIT",
+        "about": [
+          "Moons are the ships of the most unusual resistance.",
+          "Why does the dubloon die?"
+        ],
+        "startDate": "2017-05-01"
+      }
+    ],
+    "skills": ["C", "Java", "Kotlin"],
+    "hobbies": ["Skiing", "Bouldering", "Football"]
+  }
+]
